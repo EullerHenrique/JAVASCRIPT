@@ -11,10 +11,10 @@ https://github.com/EullerHenrique/Padawan_Network
 
 ## Study Ajax
 
-https://github.com/EullerHenrique/study_ajax
+https://github.com/EullerHenrique/study_ajax_2020
 
 ## Study Jquery
 
-https://github.com/EullerHenrique/study_jquery
+https://github.com/EullerHenrique/study_jquery_2020
 
 
