@@ -17,4 +17,12 @@ https://github.com/EullerHenrique/study_ajax_2020
 
 https://github.com/EullerHenrique/study_jquery_2020
 
+# Angular/Typescript
 
+## Duolingo
+
+https://github.com/EullerHenrique/Duolingo
+
+## Peixe Urbano
+
+https://github.com/EullerHenrique/Peixe_Urbano
